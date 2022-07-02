@@ -1,5 +1,3 @@
-package com.alaris.Analyzer.ui;
-
 import java.util.Properties;
 
 import javax.mail.Message;
